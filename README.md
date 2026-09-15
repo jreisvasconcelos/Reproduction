@@ -5,7 +5,7 @@ These data sets are provided to reproduce examples, figures, and analyses presen
 
 ## Contents
 - 📘 Guide 1: [https://zenodo.org/records/22658304](https://doi.org/10.5281/zenodo.22658304)
-- 📘 Guide 2: [https://doi.org/10.5281/zenodo.22770972](https://doi.org/10.5281/zenodo.22770972)
+- 📘 Guide 2: [https://zenodo.org/records/22770972](https://doi.org/10.5281/zenodo.22770972)
 - 📎 Sample data files (if provided)
 
 
@@ -13,7 +13,7 @@ These data sets are provided to reproduce examples, figures, and analyses presen
 If you use these guides or code in your work, please cite it as:
 
 Vasconcelos, J. (2026). Biología reproductiva de la caballa para la gestión pesquera: IGS, época de puesta y L50. Guía práctica con R. Zenodo. https://doi.org/10.5281/zenodo.22658304
-Vasconcelos, J. (2025). Guía práctica en R para el análisis reproductivo de Patella: Tipificación de fecundidad, estadios de madurez y atresia. Zenodo. https://doi.org/10.5281/zenodo.17241804
+Vasconcelos, J. (2025). Guía práctica en R para el análisis reproductivo de Patella: Tipificación de fecundidad, estadios de madurez y atresia. Zenodo. https://doi.org/10.5281/zenodo.22770972
 
 This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
@@ -21,5 +21,5 @@ Feel free to clone, adapt, or cite this repository when using this workflow in y
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22658304.svg)](https://doi.org/10.5281/zenodo.22658304)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17241804.svg)](https://doi.org/10.5281/zenodo.17241804)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22770972.svg)](https://doi.org/10.5281/zenodo.22770972)
 
