@@ -15,7 +15,7 @@ library(ggplot2)
 library(car)
 
 # 1. IMPORTACION Y REVISION -----------------------------------
-setwd("~/Library/Mobile Documents/com~apple~CloudDocs/Aulas_ULPGC/2026_2027/Grado_Pesquerias")
+setwd("")
 
 getwd()
 if (!file.exists("BD.xlsx")) {
